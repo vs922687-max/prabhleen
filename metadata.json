@@ -1,0 +1,6 @@
+{
+  "name": "SurveyEarn",
+  "description": "Earn real rewards by completing simple polls and paid surveys. Track your earnings, request withdrawals to UPI or Paytm, and explore engaging surveys daily.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
